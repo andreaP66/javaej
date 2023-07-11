@@ -1,12 +1,12 @@
 'use strict';
 
 // variables();
-// ejemploArrays();
+ejemploArrays();
 // funciones();
 // objetos();
 // prototipos();
 // clases();
-cambioPrototipos();
+//cambioPrototipos();
 
 function variables() {
     //alert('hola');
