@@ -1,7 +1,7 @@
 'use strict';
 
-// variables();
-ejemploArrays();
+ variables();
+//ejemploArrays();
 // funciones();
 // objetos();
 // prototipos();
