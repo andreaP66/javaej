@@ -1,0 +1,12 @@
+#image{display:block;
+max-width:100%;
+margin: 100px 0 0 0 ;}
+
+*{background-color: purple}
+
+#img-caption{color:yellow;}
+
+#lastpa{text-align: center;
+}
+
+#tribute-link{ word-wrap: break-word;}
