@@ -6,14 +6,14 @@
       "precio": 100
     },
     {
+      "id": 2,
       "nombre": "Producto 2",
-      "precio": 200,
-      "id": 2
+      "precio": 200
     },
     {
-      "nombre": "ads",
-      "precio": 342,
-      "id": 3
+      "id": 3,
+      "nombre": "Producto 3",
+      "precio": 300
     }
   ]
 }
