@@ -19,6 +19,7 @@ window.addEventListener('DOMContentLoaded', function () {
     });
 
     const display = document.querySelector('input');
+    console.log(display);
 
     function botonPulsado(e) {
         const boton = e.target;
